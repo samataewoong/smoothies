@@ -12,7 +12,7 @@ function App() {
         <Link to="/">Home</Link>&nbsp;
         <Link to="/create">Create New Smooothie</Link>
         <a href="https://www.daum.net">다음사이트</a>
-        <a href="/smootihes">홈</a>
+        <a href="/smootihes">홈</a> 
       </nav>
       <Routes>
         <Route path="/" element={<Home/>}></Route>
